@@ -6,7 +6,8 @@ This is a password generator created with JS, CSS and HTML.
 
 ## Installation
 
-You may be able to find the page in the next website: https://jonathanlunabiom.github.io/LernantinoSite/
+You may be able to find the page in the next website: https://jonathanlunabiom.github.io/PasswordGenerator/
+You can also check the repo's folder (Captures) to get more information of the page.
 
 ## Usage
 
