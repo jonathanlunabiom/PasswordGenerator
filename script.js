@@ -7,8 +7,6 @@
  var passwordText = document.querySelector("#password");
  var password = "";
  var flag = true;
- var aux = 0;
- var cont = 0;
 
 alert("Select which properties do you want on your password")
 let lenghtPassword = prompt("Enter the lenght of your password (8-128 characters)");
